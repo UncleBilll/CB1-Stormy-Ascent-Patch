@@ -1,7 +1,6 @@
 # CB1-Stormy-Ascent-Patch
-1
+Patches Stormy Ascent (unused level) back in crash bandicoot 1.
 
-patches stormy ascent (unused level) back in crash bandicoot 1.
 Stormy Ascent will replace the first level (n.sainty beach)
 includes patch for map file to name level 1 as stormy ascent.
 
